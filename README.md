@@ -5,11 +5,10 @@ Bu repository, Türkiye'nin illerinin nüfusa göre boyutlandırılmış harital
 ![Kartogram](fig/tr.png)
 
 
+
 ## Kullanım
----
 Bu repoyu klonlayarak veya indirerek kullanabilirsiniz. Daha sonra `nüfus_boyutlu.shp` dosyasını GIS uygulamasıyla açabilirsiniz.
 
 
 ## Lisans
----
 Bu çalışma CC-BY-4.0 lisansı ile lisanslanmıştır. Bu lisansın detayları için [bu bağlantıyı](LICENSE) kullanabilirsiniz.
