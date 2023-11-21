@@ -16,9 +16,9 @@ Bu repoyu klonlayarak veya indirerek kullanabilirsiniz. Daha sonra `nüfus_boyut
 Bu çalışma CC-BY-4.0 lisansı ile lisanslanmıştır. Bu lisansın detayları için [bu bağlantıyı](LICENSE) kullanabilirsiniz.
 
 
-*## Usage*
+### *Usage*
 *You can use this repo by cloning or downloading it. Then you can open `population_dimensional.shp` file with GIS application.*
 
 
-*## Licence*
+### *Licence*
 *This work is licensed under the CC-BY-4.0 licence. You can use [this link](LICENSE) for details of this licence.*
