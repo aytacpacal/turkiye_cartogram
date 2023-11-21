@@ -1,4 +1,4 @@
-# Turkey Cartogram Population Map / Türkiye Kartogram Nüfus Haritası
+# Turkey Cartogram Population Map | Türkiye Kartogram Nüfus Haritası
 
 Bu repository, Türkiye'nin illerinin nüfusa göre boyutlandırılmış haritalarını içerir. Türkiye İstatistik Kurumu'nun adrese dayalı nüfus sisteminden alınan 2022 yılı nüfus verileri kullanılmıştır. Kartogram haritalar [ScapeToad](https://github.com/christiankaiser/ScapeToad) ve [QGIS](https://www.qgis.org/en/site/) programları kullanarak [Humdata](https://data.humdata.org/dataset/cod-ab-tur) sitesinden alınan orijinal Türkiye shapefile dosyaları üzerinde oluşturulmuştur.
 
